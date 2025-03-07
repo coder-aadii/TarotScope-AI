@@ -1,0 +1,957 @@
+[
+    {
+      "question": "What is holding me back?",
+      "cards": [
+        {"name": "The Hanged Man", "arcana": "Major", "orientation": "upright"},
+        {"name": "Eight of Swords", "arcana": "Minor", "orientation": "reversed"},
+        {"name": "The Devil", "arcana": "Major", "orientation": "reversed"}
+      ],
+      "interpretation": "The Hanged Man suggests that a shift in perspective is needed. The Eight of Swords reversed indicates liberation from self-imposed restrictions, while The Devil reversed signifies breaking free from unhealthy attachments. Together, they advise releasing limiting beliefs to move forward."
+    },
+    {
+      "question": "What am I not seeing?",
+      "cards": [
+        {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+        {"name": "Seven of Cups", "arcana": "Minor", "orientation": "upright"},
+        {"name": "Moon", "arcana": "Major", "orientation": "reversed"}
+      ],
+      "interpretation": "The High Priestess invites you to trust your intuition. The Seven of Cups warns against illusions and distractions, while the Moon reversed suggests that hidden truths are beginning to surface. Pay attention to your inner voice to uncover what is concealed."
+    },
+    {
+      "question": "What is my current challenge?",
+      "cards": [
+        {"name": "Five of Wands", "arcana": "Minor", "orientation": "upright"},
+        {"name": "Tower", "arcana": "Major", "orientation": "reversed"},
+        {"name": "Knight of Swords", "arcana": "Minor", "orientation": "reversed"}
+      ],
+      "interpretation": "The Five of Wands indicates internal or external conflicts. The Tower reversed suggests resistance to necessary change, and the Knight of Swords reversed warns against hasty actions. Your challenge lies in navigating conflicts without rushing into decisions."
+    },
+    {
+      "question": "How can I better honor my potential?",
+      "cards": [
+        {"name": "Strength", "arcana": "Major", "orientation": "upright"},
+        {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"},
+        {"name": "Ace of Wands", "arcana": "Minor", "orientation": "upright"}
+      ],
+      "interpretation": "Strength encourages embracing your inner courage. The Three of Pentacles highlights the importance of collaboration, and the Ace of Wands signifies new beginnings fueled by passion. Honor your potential by combining personal strength with teamwork and pursuing your passions."
+    },
+    {
+      "question": "How can I bring my life into balance?",
+      "cards": [
+        {"name": "Temperance", "arcana": "Major", "orientation": "upright"},
+        {"name": "Four of Swords", "arcana": "Minor", "orientation": "reversed"},
+        {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "upright"}
+      ],
+      "interpretation": "Temperance advocates for moderation and harmony. The Four of Swords reversed suggests the need to address burnout, and the Two of Pentacles advises juggling responsibilities with flexibility. Achieving balance requires mindful moderation, rest, and adaptable time management."
+    },
+    {
+        "question": "What activities or experiences might deepen our connection?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "upright"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Lovers and Two of Cups highlight the importance of shared emotional experiences. Engaging in activities that foster mutual understanding and joy, such as heartfelt conversations or collaborative projects, can strengthen your bond. Celebrating milestones together, as suggested by the Four of Wands, will further solidify your connection."
+      },
+      {
+        "question": "How can I balance independence and togetherness in my relationship?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Nine of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress and Nine of Pentacles encourage nurturing your individuality and personal achievements. Cultivating your own interests and goals will enrich your partnership. The Three of Pentacles suggests collaborative efforts, emphasizing that working together on shared projects can harmonize your need for both independence and unity."
+      },
+      {
+        "question": "How can we best support each other's personal growth and aspirations?",
+        "cards": [
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"},
+          {"name": "Six of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Page of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Star encourages fostering hope and inspiration. Supporting each other's dreams through generous sharing of resources and knowledge, as indicated by the Six of Pentacles, will nurture growth. The Page of Swords advises open communication and a willingness to learn, ensuring both partners feel encouraged in their individual pursuits."
+      },
+      {
+        "question": "Are there any potential red flags I should be aware of in my relationship?",
+        "cards": [
+          {"name": "The Devil", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Seven of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Five of Cups", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Devil reversed suggests liberation from negative patterns, while the Seven of Swords reversed warns against dishonesty. The Five of Cups reversed indicates healing from past disappointments. Together, these cards advise vigilance against falling into old habits, emphasizing the importance of transparency and addressing past issues to maintain a healthy relationship."
+      },
+      {
+        "question": "What do the cards reveal about our future together?",
+        "cards": [
+          {"name": "Wheel of Fortune", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ten of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Wheel of Fortune signifies cycles and destiny, suggesting that your relationship is on a positive trajectory. The Ten of Cups foretells emotional fulfillment and harmony, while the King of Pentacles indicates stability and success. Together, these cards paint a picture of a prosperous and content future."
+      },
+      {
+        "question": "What qualities should I focus on highlighting during a date?",
+        "cards": [
+          {"name": "The Magician", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Queen of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Magician encourages showcasing your talents and confidence. The Knight of Cups suggests expressing genuine emotions and romantic gestures, while the Queen of Pentacles advises highlighting your nurturing and grounded nature. Together, these qualities will present a well-rounded and appealing persona."
+      },
+      {
+        "question": "What conversation topics are likely to resonate with my date?",
+        "cards": [
+          {"name": "Ace of Wands", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Three of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Six of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Ace of Wands suggests discussing passions and new ideas. The Three of Cups encourages conversations about social connections and celebrations, while the Six of Swords invites talks about travel and personal journeys. These topics are likely to engage and connect with your date."
+      },
+      {
+        "question": "How can I maintain a balance between being open-minded and cautious in dating?",
+        "cards": [
+          {"name": "Temperance", "arcana": "Major", "orientation": "upright"},
+          {"name": "Two of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Queen of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Temperance advocates for moderation and balance. The Two of Swords suggests weighing options carefully, while the Queen of Swords advises clear boundaries and discernment. Together, these cards recommend approaching dating with an open heart but a discerning mind, ensuring a healthy balance between receptivity and caution."
+      },
+      {
+        "question": "How can I ensure a date flows smoothly and naturally?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "Page of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool encourages a carefree and adventurous attitude. The Page of Cups suggests expressing genuine interest and emotions, while the Eight of Pentacles advises being attentive and present. Together, these cards highlight the importance of authenticity, enthusiasm, and mindfulness to create a comfortable and enjoyable date."
+      },
+      {
+        "question": "What is my fortune in love and relationships?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "upright"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Ten of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Lovers and Two of Cups highlight the potential for deep, harmonious connections. The Ten of Pentacles suggests that these relationships can lead to long-term stability and fulfillment. Embracing mutual respect and shared values will enhance your romantic journey."
+      },
+      {
+        "question": "What qualities should I seek in a potential long-term partner?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "King of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Nine of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Seek a partner who embodies nurturing qualities and emotional maturity, as represented by The Empress and King of Cups. The Nine of Pentacles emphasizes the importance of independence and self-sufficiency. A balance of compassion, emotional depth, and personal autonomy will foster a healthy, lasting relationship."
+      },
+      {
+        "question": "What lessons can I carry forward from past relationships into new connections?",
+        "cards": [
+          {"name": "The Hermit", "arcana": "Major", "orientation": "upright"},
+          {"name": "Six of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Judgment", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Hermit advises introspection to understand past experiences. The Six of Swords signifies moving on from previous hardships, and Judgment calls for embracing personal growth. Carry forward the wisdom gained, the resilience built, and the commitment to continuous self-improvement."
+      },
+      {
+        "question": "How can I navigate fears or doubts about entering into a new relationship?",
+        "cards": [
+          {"name": "Strength", "arcana": "Major", "orientation": "upright"},
+          {"name": "Nine of Wands", "arcana": "Minor", "orientation": "upright"},
+          {"name": "The Moon", "arcana": "Major", "orientation": "reversed"}
+        ],
+        "interpretation": "Strength encourages courage and inner fortitude. The Nine of Wands suggests perseverance despite past challenges, and The Moon reversed indicates clarity overcoming confusion. Acknowledge your fears, draw upon your resilience, and seek clarity to build confidence in new relationships."
+      },
+      {
+        "question": "What is the long-term potential of my current relationship?",
+        "cards": [
+          {"name": "The Chariot", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Chariot signifies determination and direction, suggesting that with mutual effort, your relationship can overcome obstacles. The Four of Wands indicates celebrations and milestones, while the Ace of Pentacles points to new beginnings and opportunities. Together, these cards suggest a promising future filled with growth and achievement."
+      },
+      {
+        "question": "How can I grow spiritually?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ace of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess encourages deepening your connection with your inner self and intuition. The Four of Swords reversed suggests engaging in active reflection, and the Ace of Cups signifies embracing new emotional experiences. Together, these cards invite you to explore your inner wisdom, dedicate time to spiritual practices, and open your heart to new spiritual insights."
+      },
+      {
+        "question": "Am I on the right path in life?",
+        "cards": [
+          {"name": "Wheel of Fortune", "arcana": "Major", "orientation": "upright"},
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "King of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Wheel of Fortune indicates that you're in alignment with the natural flow of life. The Fool suggests embracing new beginnings with enthusiasm, and the King of Swords advises clear thinking and strategic planning. These cards affirm that you're on a favorable path, encouraged to embrace opportunities with wisdom and clarity."
+      },
+      {
+        "question": "Who do I truly want to be?",
+        "cards": [
+          {"name": "The Magician", "arcana": "Major", "orientation": "upright"},
+          {"name": "Queen of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Knight of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Magician empowers you to harness your talents and manifest your desires. The Queen of Pentacles highlights nurturing qualities and practicality, while the Knight of Wands embodies passion and adventure. Together, these cards suggest you aspire to be a dynamic individual who blends creativity, nurturing care, and bold enthusiasm."
+      },
+      {
+        "question": "How do I stop neglecting my own needs?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Queen of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Four of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Empress encourages nurturing yourself and recognizing the importance of self-care. The Queen of Cups emphasizes emotional healing, while the Four of Pentacles reversed advises letting go of rigid control and prioritizing your well-being. Embrace self-compassion and make space for your personal needs."
+      },
+      {
+        "question": "What fears are holding me back?",
+        "cards": [
+          {"name": "The Moon", "arcana": "Major", "orientation": "upright"},
+          {"name": "Nine of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Seven of Cups", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Moon represents hidden fears and uncertainties, while the Nine of Swords signifies anxiety and self-doubt. The Seven of Cups reversed encourages clear decision-making, urging you to confront your fears head-on and avoid getting lost in illusions. Acknowledge your insecurities and work towards overcoming them."
+      },
+      {
+        "question": "What lessons can I learn from past mistakes?",
+        "cards": [
+          {"name": "Justice", "arcana": "Major", "orientation": "upright"},
+          {"name": "The Tower", "arcana": "Major", "orientation": "upright"},
+          {"name": "Page of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Justice advises that every action has consequences, and The Tower highlights the importance of embracing change after upheavals. The Page of Pentacles encourages a mindset of growth and learning. The lesson is to accept responsibility, learn from disruptions, and use them as opportunities for personal development."
+      },
+      {
+        "question": "How can I love myself more?",
+        "cards": [
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "The World", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Star encourages self-healing and optimism. The Ace of Cups speaks to opening your heart to self-love, and The World represents achieving wholeness and fulfillment. Together, these cards suggest that practicing self-compassion and embracing your personal journey will lead to a greater sense of self-love."
+      },
+      {
+        "question": "What can I do to manage my emotions in a healthier way?",
+        "cards": [
+          {"name": "Temperance", "arcana": "Major", "orientation": "upright"},
+          {"name": "King of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "Temperance advises finding emotional balance and moderation. The King of Cups represents emotional maturity and control, while the Two of Pentacles reversed suggests avoiding overcommitment. Focus on creating balance and practicing emotional regulation to manage your feelings in a healthier way."
+      },
+      {
+        "question": "What should I focus on for personal growth?",
+        "cards": [
+          {"name": "The Hierophant", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "The Hanged Man", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Hierophant calls for dedication to learning and following a structured path. The Eight of Pentacles highlights the importance of hard work and skill development, while The Hanged Man encourages shifting your perspective. Focus on honing your abilities and gaining wisdom through reflection and practice."
+      },
+      {
+        "question": "How can I improve my health?",
+        "cards": [
+          {"name": "The Sun", "arcana": "Major", "orientation": "upright"},
+          {"name": "Strength", "arcana": "Major", "orientation": "upright"},
+          {"name": "Six of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Sun represents vitality and positive energy, while Strength suggests building physical and mental resilience. The Six of Swords advises moving away from negative habits. Focus on maintaining a healthy, positive lifestyle and making conscious decisions to improve your overall well-being."
+      },
+      {
+        "question": "What can I do to heal my body?",
+        "cards": [
+          {"name": "The Hermit", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Hermit suggests taking time for self-care and introspection. The Ace of Pentacles indicates opportunities for physical renewal, and the Four of Swords emphasizes the importance of rest and recovery. Pay attention to your body's needs, incorporate healing practices, and allow time for rejuvenation."
+      },
+      {
+        "question": "What can I do to heal my mind?",
+        "cards": [
+          {"name": "The Magician", "arcana": "Major", "orientation": "upright"},
+          {"name": "Five of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Nine of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Magician encourages mental empowerment and resourcefulness. The Five of Cups signifies releasing past regrets, while the Nine of Pentacles emphasizes self-reliance and mental well-being. Focus on creating positive thought patterns, letting go of negativity, and cultivating independence for mental healing."
+      },
+      {
+        "question": "How can I reduce stress and anxiety?",
+        "cards": [
+          {"name": "Temperance", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "Temperance suggests finding balance and harmony, while the Four of Swords advises taking a break for mental rest. The Star offers hope and reassurance, encouraging you to have faith in a brighter future. Focus on creating inner peace and giving yourself time to relax and heal."
+      },
+      {
+        "question": "What is preventing me from reaching optimal health?",
+        "cards": [
+          {"name": "The Devil", "arcana": "Major", "orientation": "upright"},
+          {"name": "Five of Wands", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Seven of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Devil suggests that unhealthy habits or dependencies may be holding you back, while the Five of Wands indicates inner conflict and resistance. The Seven of Pentacles reversed advises impatience with progress. Focus on breaking free from harmful patterns and being patient with your journey to better health."
+      },
+      {
+        "question": "How can I stop bad habits?",
+        "cards": [
+          {"name": "Death", "arcana": "Major", "orientation": "upright"},
+          {"name": "Two of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Ace of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Death represents transformation and the end of old cycles. The Two of Swords highlights the need to make clear decisions, and the Ace of Wands brings the energy of new beginnings. It's time to let go of destructive habits and embrace a fresh, more purposeful path."
+      },
+      {
+        "question": "What lifestyle changes should I make for better health?",
+        "cards": [
+          {"name": "The Chariot", "arcana": "Major", "orientation": "upright"},
+          {"name": "Queen of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Page of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Chariot advises you to take control of your health journey with determination. The Queen of Pentacles emphasizes a balanced approach to nutrition and self-care, while the Page of Wands encourages physical activity and a fresh outlook on health. Embrace both structure and passion for your well-being."
+      },
+      {
+        "question": "What can I do to find the right job for me?",
+        "cards": [
+          {"name": "The Hermit", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Hermit suggests introspection to understand your true calling. The Three of Pentacles represents collaboration and learning new skills, while The Fool encourages you to take a leap of faith and embrace new opportunities. Reflect on your strengths, seek growth, and be open to fresh beginnings in your career."
+      },
+      {
+        "question": "How can I succeed in pursuing my career dreams?",
+        "cards": [
+          {"name": "The Emperor", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Six of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Emperor advises taking a disciplined and strategic approach to your career, while the Knight of Pentacles encourages persistence and hard work. The Six of Wands indicates that success and recognition are achievable. Stay committed, be patient, and trust that your efforts will be rewarded."
+      },
+      {
+        "question": "What are my strengths and weaknesses in my career?",
+        "cards": [
+          {"name": "Strength", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Ten of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Strength represents your resilience, inner courage, and ability to persevere. The Seven of Swords points to a tendency to overthink or hold back, while the Ten of Wands suggests that you may take on too much responsibility. Focus on using your strengths wisely while avoiding burnout and delegation issues."
+      },
+      {
+        "question": "How do I know if I'm on the right career path?",
+        "cards": [
+          {"name": "The Sun", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Sun indicates that if you feel a sense of joy and fulfillment in your work, you're on the right path. The Ace of Pentacles suggests new financial or career opportunities, and The High Priestess encourages you to trust your intuition. Success is within reach if you remain aligned with your passions."
+      },
+      {
+        "question": "How can I advance my career?",
+        "cards": [
+          {"name": "The Magician", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "King of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Magician encourages you to use your talents and resources creatively. The Eight of Pentacles emphasizes the importance of continued skill development, while the King of Wands suggests that leadership and vision will drive your career forward. Focus on mastering your craft and being proactive in taking on leadership roles."
+      },
+      {
+        "question": "What mistakes am I making in my job?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool reversed warns against acting recklessly or without proper planning. The Eight of Pentacles reversed suggests a lack of dedication or attention to detail in your work. The King of Swords advises you to approach your job with clear communication and strategic thinking. Reflect on your actions, commit fully to your tasks, and apply your intellect to improve your professional performance."
+      },
+      {
+        "question": "How can I achieve work-life balance?",
+        "cards": [
+          {"name": "Temperance", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Temperance encourages moderation and finding harmony between work and personal life. The Four of Swords suggests taking necessary breaks to recharge. The Two of Pentacles highlights the importance of juggling responsibilities effectively. Strive for equilibrium by managing your time wisely and ensuring you allocate moments for rest and personal activities."
+      },
+      {
+        "question": "Is there anything holding me back from reaching my full potential in my career?",
+        "cards": [
+          {"name": "The Devil", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Knight of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Devil indicates that you may be facing self-imposed limitations or unhealthy attachments hindering your progress. The Seven of Cups reversed suggests a need to focus and avoid distractions. The Knight of Pentacles advises a diligent and methodical approach to your work. Identify and free yourself from limiting beliefs, concentrate on your goals, and maintain a disciplined work ethic to unlock your full potential."
+      },
+      {
+        "question": "How can I feel happy and fulfilled at work?",
+        "cards": [
+          {"name": "The Sun", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Page of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Sun signifies joy and success, suggesting a positive outlook at work. The Three of Pentacles emphasizes collaboration and teamwork, which can enhance job satisfaction. The Page of Cups invites you to embrace creativity and emotional intelligence. Cultivate a positive attitude, engage in collaborative projects, and express your creativity to find happiness and fulfillment in your career."
+      },
+      {
+        "question": "What is my mindset regarding money?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Five of Swords", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Empress reflects a nurturing attitude towards wealth, viewing money as a means to provide and care for others. The Ace of Pentacles reversed warns of missed opportunities or financial delays. The Five of Swords reversed suggests a desire to avoid conflict, possibly leading to passive financial decisions. Consider adopting a proactive approach to financial opportunities, balancing generosity with prudent financial planning."
+      },
+      {
+        "question": "What can I do to earn more money?",
+        "cards": [
+          {"name": "The Magician", "arcana": "Major", "orientation": "upright"},
+          {"name": "Six of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Queen of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Magician encourages you to leverage your skills and resources creatively to generate income. The Six of Pentacles highlights the importance of balancing giving and receiving, suggesting that generosity can lead to financial flow. The Queen of Wands advises embracing confidence and initiative in your pursuits. Utilize your talents, engage in equitable financial practices, and take bold actions to enhance your earnings."
+      },
+      {
+        "question": "What is preventing me from earning more money?",
+        "cards": [
+          {"name": "The Hanged Man", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Four of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Hanged Man reversed suggests resistance to changing perspectives or approaches. The Four of Pentacles reversed warns against hoarding or being overly cautious with money. The Ten of Wands indicates being burdened by responsibilities, potentially limiting financial opportunities. Consider embracing new financial strategies, adopting a more open attitude towards spending and investing, and delegating tasks to alleviate financial stress."
+      },
+      {
+        "question": "How do I prevent myself from making poor financial decisions?",
+        "cards": [
+          {"name": "Justice", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Knight of Swords", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "Justice calls for fairness and accountability, urging you to make balanced financial choices. The Seven of Pentacles advises careful assessment of investments and patience with returns. The Knight of Swords reversed warns against hasty decisions without proper consideration. Approach financial matters with fairness, evaluate your options thoughtfully, and avoid impulsive actions to safeguard your financial well-being."
+      },
+      {
+        "question": "How can I improve my relationship with money and finances?",
+        "cards": [
+          {"name": "The Magician", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Queen of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Magician suggests harnessing your skills and resources to manifest financial abundance. The Ace of Pentacles reversed warns of missed opportunities or financial delays, urging you to stay vigilant. The Queen of Pentacles advises nurturing your financial well-being with practicality and care. Focus on utilizing your talents, staying alert to opportunities, and managing your finances wisely to improve your relationship with money."
+      },
+      {
+        "question": "What is holding me back?",
+        "cards": [
+          {"name": "The Hanged Man", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Four of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Hanged Man indicates that a shift in perspective is needed to overcome current obstacles. The Eight of Swords reversed suggests releasing self-imposed limitations and fears. The Four of Pentacles warns against being overly cautious or possessive, which may hinder progress. Embrace new viewpoints, liberate yourself from limiting beliefs, and find a healthy balance in your approach to move forward."
+      },
+      {
+        "question": "What am I not seeing?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Moon", "arcana": "Major", "orientation": "reversed"}
+        ],
+        "interpretation": "The High Priestess urges you to trust your intuition and seek deeper understanding. The Seven of Cups reversed advises focusing on clear goals amidst distractions. The Moon reversed indicates that hidden truths are becoming illuminated. Pay attention to your inner voice, clarify your objectives, and be aware of emerging truths to gain a fuller perspective."
+      },
+      {
+        "question": "What is my current challenge?",
+        "cards": [
+          {"name": "The Tower", "arcana": "Major", "orientation": "upright"},
+          {"name": "Five of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Tower signifies sudden upheaval or unexpected changes disrupting your stability. The Five of Wands reversed suggests internal conflicts or avoidance of necessary confrontations. The Ten of Swords indicates feelings of betrayal or being overwhelmed. Acknowledge the challenges, address internal conflicts, and seek support to navigate through this difficult period."
+      },
+      {
+        "question": "How can I better honor my potential?",
+        "cards": [
+          {"name": "The Emperor", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Strength", "arcana": "Major", "orientation": "reversed"}
+        ],
+        "interpretation": "The Emperor encourages you to take charge of your destiny with confidence and authority. The Three of Pentacles highlights the value of collaboration and learning from others. Strength reversed suggests addressing self-doubt or lack of confidence. Embrace leadership opportunities, work collaboratively, and build self-assurance to fully honor your potential."
+      },
+      {
+        "question": "How can I bring my life into balance?",
+        "cards": [
+          {"name": "Justice", "arcana": "Major", "orientation": "upright"},
+          {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Wheel of Fortune", "arcana": "Major", "orientation": "reversed"}
+        ],
+        "interpretation": "Justice emphasizes the importance of fairness and accountability in your actions. The Two of Pentacles suggests managing multiple responsibilities with adaptability. The Wheel of Fortune reversed warns of resisting change or cycles out of your control. Strive for fairness in your decisions, balance your commitments, and adapt to life's ebbs and flows to achieve harmony."
+      },
+      {
+        "question": "What opportunities are manifesting for me at this time?",
+        "cards": [
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Wands", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Six of Swords", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Star brings hope and inspiration, indicating new opportunities aligned with your true self. The Ace of Wands signifies the emergence of creative ideas and ventures. The Six of Swords reversed suggests revisiting past lessons to move forward. Embrace new inspirations, act on creative impulses, and reflect on past experiences to recognize and seize current opportunities."
+      },
+      {
+        "question": "What can I do to better honor my body?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress embodies nurturing energy, encouraging self-care and appreciation of your physical form. The Knight of Cups reversed warns against neglecting emotional needs, which can affect physical health. The Four of Swords advises taking time to rest and recuperate. Prioritize self-care routines, address emotional well-being, and ensure adequate rest to honor your body's needs."
+      },
+      {
+        "question": "What should I focus on this week/month/season?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Nine of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool encourages embracing new beginnings and taking calculated risks. The King of Pentacles reversed warns against financial mismanagement or neglecting responsibilities. The Nine of Cups signifies contentment and the fulfillment of desires. Focus on pursuing new opportunities with enthusiasm, ensuring financial prudence, and appreciating the blessings you have."
+      },
+      {
+        "question": "What does my soul need to hear right now?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Two of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Death", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess urges you to trust your intuition and seek inner wisdom. The Two of Wands reversed suggests indecision or fear of the unknown. Death signifies transformation and the end of a cycle. Your soul calls for introspection, embracing change, and overcoming hesitation to align with your true path."
+      },
+      {
+        "question": "How can I invite more peace into my life?",
+        "cards": [
+          {"name": "Temperance", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "Temperance advocates for balance and moderation in all aspects of life. The Four of Swords suggests taking time for rest and mental rejuvenation. The Eight of Pentacles reversed warns against burnout from overworking. Cultivate harmony by balancing work and rest, and avoid overcommitting to maintain inner peace."
+      },
+      {
+        "question": "What habits are no longer serving me?",
+        "cards": [
+          {"name": "The Devil", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Nine of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Devil represents bondage to unhealthy patterns or addictions. The Seven of Swords reversed indicates dishonesty or self-deception. The Nine of Wands signifies resilience but also exhaustion. Identify and release habits that bind you, confront any self-deceptions, and recognize when to rest to foster personal growth."
+      },
+      {
+        "question": "What is my soul’s purpose?",
+        "cards": [
+          {"name": "The Chariot", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ace of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Chariot signifies determination and the drive to overcome obstacles. The Three of Cups reversed warns against isolation or neglecting social connections. The Ace of Swords represents clarity of thought and new ideas. Your soul's purpose involves pursuing your goals with determination, maintaining meaningful relationships, and embracing intellectual pursuits."
+      },
+      {
+        "question": "How can I best nurture myself in this moment?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Five of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress embodies nurturing energy and self-care. The Knight of Pentacles reversed suggests avoiding overwork and recognizing the need for rest. The Five of Wands indicates internal conflicts or external challenges. Prioritize self-care, set healthy boundaries, and address conflicts to nurture your well-being."
+      },
+      {
+        "question": "What do I need to release and let go of for my highest good?",
+        "cards": [
+          {"name": "The Moon", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ten of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Six of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Moon represents illusions and hidden fears. The Ten of Swords reversed suggests lingering pain or past betrayals. The Six of Cups signifies nostalgia and past memories. Release fears, heal from past wounds, and let go of attachments to past experiences that no longer serve your growth."
+      },
+      {
+        "question": "What do I need to forgive?",
+        "cards": [
+          {"name": "Judgement", "arcana": "Major", "orientation": "upright"},
+          {"name": "Five of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Swords", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Judgement calls for self-reflection and embracing forgiveness. The Five of Cups reversed indicates moving past grief and regret. The King of Swords represents clarity and rational decision-making. Forgive yourself and others to release emotional burdens, allowing for healing and progress."
+      },
+      {
+        "question": "How can I cultivate more self-love in my life?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Queen of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Empress embodies nurturing and self-care, encouraging you to prioritize your well-being. The Queen of Cups signifies emotional intelligence and compassion, suggesting you listen to your feelings. The Ace of Pentacles reversed warns against neglecting your physical health. To cultivate self-love, engage in activities that nourish your body and soul, listen to your emotional needs, and establish routines that promote physical well-being."
+      },
+      {
+        "question": "What fears am I currently facing and how do I overcome them?",
+        "cards": [
+          {"name": "The Moon", "arcana": "Major", "orientation": "upright"},
+          {"name": "Nine of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Strength", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Moon represents illusions and hidden fears, indicating you may be facing uncertainties. The Nine of Swords reversed suggests anxiety and sleepless nights. Strength advises courage and inner fortitude. To overcome your fears, confront them directly, seek support when needed, and trust in your resilience to navigate challenges."
+      },
+      {
+        "question": "What is the biggest obstacle to my personal growth?",
+        "cards": [
+          {"name": "The Hanged Man", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Five of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Eight of Cups", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Hanged Man reversed suggests resistance to change or new perspectives. The Five of Pentacles indicates feelings of isolation or lack. The Eight of Cups reversed points to reluctance to let go of unfulfilling situations. Your personal growth may be hindered by reluctance to embrace change, feelings of scarcity, and attachment to unfulfilling circumstances. Embracing change, seeking support, and releasing what no longer serves you can help overcome these obstacles."
+      },
+      {
+        "question": "How can I move my love life forward?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "upright"},
+          {"name": "Page of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Lovers card highlights the importance of meaningful connections and choices in love. The Page of Wands reversed warns against immaturity or lack of direction. The Two of Cups signifies mutual attraction and partnership. To advance your love life, make conscious choices that align with your values, approach relationships with maturity, and seek partnerships that offer mutual respect and understanding."
+      },
+      {
+        "question": "How can I improve my love life?",
+        "cards": [
+          {"name": "The Chariot", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Chariot signifies determination and control, suggesting you take proactive steps in your love life. The Knight of Cups reversed indicates emotional immaturity or unrealistic expectations. The Three of Pentacles emphasizes collaboration and teamwork. Improving your love life involves taking decisive actions, managing expectations, and working collaboratively with your partner to build a strong foundation."
+      },
+      {
+        "question": "What is the romantic potential of this relationship?",
+        "cards": [
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Star offers hope and inspiration, indicating a positive outlook for the relationship. The Four of Wands reversed suggests instability or delays in celebration. The Ten of Cups represents emotional fulfillment and happiness. The relationship has strong potential for happiness, but addressing any instability and nurturing the connection are essential for long-term fulfillment."
+      },
+      {
+        "question": "Should I reconnect with my ex?",
+        "cards": [
+          {"name": "Judgement", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Judgement calls for self-reflection and making significant decisions. The Seven of Cups reversed indicates clarity and making informed choices. The King of Pentacles represents stability and responsibility. Reconnecting with your ex requires careful consideration of past issues and current circumstances to determine if it aligns with your long-term well-being."
+      },
+      {
+        "question": "Does he/she have feelings for me?",
+        "cards": [
+          {"name": "Ace of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Knight of Cups", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Ace of Cups signifies the beginning of a new emotional journey, indicating the potential for deep feelings. The Two of Cups represents mutual attraction and partnership, suggesting a strong bond. However, the Knight of Cups reversed warns of emotional immaturity or unrealistic expectations. Together, these cards suggest that he/she may have developing feelings for you, but it is important to approach the situation with emotional maturity and clear communication."
+      },
+      {
+        "question": "How can I better connect in my relationship?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Page of Cups", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Lovers card emphasizes the importance of conscious choices and deep connections. The Three of Pentacles highlights collaboration and teamwork. The Page of Cups reversed suggests a need for more open and mature emotional expression. To deepen your connection, focus on making thoughtful choices together, collaborate on shared goals, and communicate your feelings openly and honestly."
+      },
+      {
+        "question": "What opportunities in love are coming to me?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress represents abundance and nurturing energy, indicating a period of growth in your love life. The Ace of Pentacles reversed warns against neglecting practical aspects of relationships. The Two of Cups signifies mutual affection and partnership. Upcoming opportunities include forming a deeply nurturing and balanced partnership, provided you also attend to the practicalities of building a life together."
+      },
+      {
+        "question": "Is this person more than a friend?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Queen of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool suggests a new beginning or adventure, possibly indicating a shift in your relationship. The Knight of Wands reversed warns of impulsiveness or lack of commitment. The Queen of Cups embodies emotional depth and compassion. These cards suggest that while there may be potential for a deeper relationship, it is important to approach the situation with emotional awareness and avoid rushing into decisions."
+      },
+      {
+        "question": "Is there a spiritual connection with this person?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess signifies intuition and spiritual insight. The Four of Wands reversed suggests instability or delays in celebration. The Ten of Cups represents emotional fulfillment and harmony. These cards indicate that there may be a spiritual connection, but it might require deeper exploration and patience to fully understand and nurture it."
+      },
+      {
+        "question": "How emotionally available is this person?",
+        "cards": [
+          {"name": "The Moon", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Moon represents illusions and hidden emotions. The Seven of Cups reversed indicates clarity and making informed choices. The King of Pentacles embodies stability and responsibility. These cards suggest that while the person may have deep emotions, they might also have a tendency to hide or be unclear about them. Building trust and encouraging open communication can help in understanding their emotional availability."
+      },
+      {
+        "question": "What is the current challenge/struggle/lesson in my relationship?",
+        "cards": [
+          {"name": "The Tower", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Tower signifies sudden change or upheaval. The Eight of Swords reversed suggests liberation from mental constraints. The Two of Pentacles indicates balancing multiple aspects of life. The current challenge may involve adapting to unexpected changes and finding balance amidst them. Embracing flexibility and open-mindedness can help navigate these challenges."
+      },
+      {
+        "question": "What can I do to attract the best partner for me?",
+        "cards": [
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Queen of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Star offers hope and inspiration, guiding you toward your desires. The Ace of Cups reversed warns of blocking emotional connections. The Queen of Pentacles embodies nurturing and practicality. To attract the best partner, focus on healing and opening your heart to love, maintain a nurturing and grounded approach, and create a stable environment that invites a healthy relationship."
+      },
+      {
+        "question": "What are my partner's fears about the relationship?",
+        "cards": [
+          {"name": "The Moon", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Moon represents illusions and hidden emotions. The Seven of Cups reversed indicates clarity and making informed choices. The King of Pentacles embodies stability and responsibility. Your partner's fears may involve uncertainties about the relationship's direction and their ability to provide stability. Encouraging open communication can help address these concerns."
+      },
+      {
+        "question": "What is the biggest obstacle in my relationship?",
+        "cards": [
+          {"name": "The Tower", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Tower signifies sudden change or upheaval. The Eight of Swords reversed suggests liberation from mental constraints. The Two of Pentacles indicates balancing multiple aspects of life. The biggest obstacle may be adapting to unexpected changes while trying to maintain balance. Embracing flexibility and open-mindedness can help navigate these challenges."
+      },
+      {
+        "question": "What is the current block in my relationship or love life?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Page of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Lovers reversed suggests disharmony or misalignment in choices. The Three of Pentacles reversed indicates challenges in collaboration. The Page of Cups embodies new emotional beginnings. The current block may involve miscommunication and a lack of teamwork. Fostering open dialogue and working together towards common goals can help overcome this hurdle."
+      },
+      {
+        "question": "What needs more attention in my love life?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess signifies intuition and inner wisdom. The Four of Wands reversed suggests instability in celebrations or milestones. The Ten of Cups represents emotional fulfillment. Paying more attention to your inner feelings and intuitions can guide you toward greater happiness in your love life. Addressing any instability and nurturing emotional connections are also key."
+      },
+      {
+        "question": "Am I better off single or should I remain in this connection?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Queen of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool suggests new beginnings and adventures. The Knight of Wands reversed warns of impulsiveness or lack of commitment. The Queen of Cups embodies emotional depth and compassion. Reflecting on your emotional needs and desires is crucial. If the current connection aligns with your values and brings emotional fulfillment, it may be worth continuing. Otherwise, embracing new opportunities could lead to personal growth."
+      },
+      {
+        "question": "How can I heal from my ex?",
+        "cards": [
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Queen of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Star offers hope and healing. The Ace of Cups reversed warns of blocking emotional connections. The Queen of Pentacles embodies nurturing and self-care. Healing from your ex involves focusing on self-love, allowing yourself to grieve, and nurturing your well-being. Opening your heart to new experiences when you feel ready will facilitate healing."
+      },
+      {
+        "question": "What should I look for in a partner?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress signifies nurturing, abundance, and fertility, highlighting the importance of finding a partner who embodies care and compassion. The Ace of Pentacles reversed suggests caution against materialistic tendencies, emphasizing the value of emotional connection over material gain. The Two of Cups represents mutual attraction and partnership, indicating that a harmonious and balanced relationship should be a priority. Seek a partner who offers emotional depth, shares your values, and fosters a nurturing environment."
+      },
+      {
+        "question": "What do I need to work on in order to be happy in my love life?",
+        "cards": [
+          {"name": "The Hermit", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Five of Wands", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Nine of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Hermit reversed suggests that introspection is needed; avoid isolating yourself and engage more with others. The Five of Wands indicates that resolving conflicts and embracing healthy competition can lead to growth. The Nine of Pentacles reversed warns against neglecting self-sufficiency; ensure you maintain your independence within a relationship. Focus on balancing personal growth with relationship dynamics to achieve happiness."
+      },
+      {
+        "question": "Am I ready for a new relationship?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Queen of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool signifies new beginnings and adventures, suggesting openness to a new relationship. The Knight of Wands reversed warns of rushing in without commitment, indicating a need for caution. The Queen of Cups embodies emotional maturity and compassion, highlighting the importance of nurturing qualities. Reflect on your readiness by balancing enthusiasm with thoughtful consideration and emotional availability."
+      },
+      {
+        "question": "What do I really need in a romantic relationship?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess emphasizes the need for intuition and inner wisdom, suggesting that understanding your deeper desires is crucial. The Four of Wands reversed indicates that stability and celebration may be lacking, highlighting the importance of a supportive environment. The Ten of Cups represents emotional fulfillment and happiness, pointing toward the desire for a joyful and harmonious partnership. Seek a relationship that aligns with your inner values, offers stability, and brings emotional contentment."
+      },
+      {
+        "question": "How can I stop repeating past love mistakes?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Page of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Lovers reversed suggests disharmony and misalignment in past choices, indicating a need to reassess your values. The Three of Pentacles reversed points to challenges in collaboration, highlighting the importance of teamwork. The Page of Cups embodies new emotional beginnings, encouraging openness to fresh perspectives. To break free from past patterns, reflect on previous mistakes, communicate openly, and approach new relationships with a willingness to learn and grow."
+      },
+      {
+        "question": "What is my current family situation trying to teach me?",
+        "cards": [
+          {"name": "The Chariot", "arcana": "Major", "orientation": "upright"},
+          {"name": "Six of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Chariot signifies determination and control, suggesting that your family situation is teaching you to take charge and stay focused. The Six of Swords reversed indicates resistance to change, highlighting the need to embrace transitions. The King of Pentacles embodies stability and responsibility, pointing toward the importance of providing for and protecting loved ones. Your family dynamics may be encouraging you to lead with confidence, adapt to change, and uphold your responsibilities."
+      },
+      {
+        "question": "How can I improve the situation with my family/children?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ace of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress suggests nurturing and caring for your family, fostering a loving environment. The Ace of Pentacles reversed warns against material distractions, emphasizing the importance of quality time over material gifts. The Two of Cups represents partnership and mutual respect, highlighting the need for open communication and understanding. To enhance your family relationships, prioritize emotional connections, engage in meaningful activities together, and ensure that your interactions are rooted in love and respect."
+      },
+      {
+        "question": "How can I better connect with my friends/family/children?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ten of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess emphasizes the importance of intuition and understanding in your relationships, encouraging you to listen deeply and empathize. The Four of Wands reversed suggests that creating a stable and celebratory environment may be challenging, indicating a need to work on building a supportive atmosphere. The Ten of Cups represents emotional fulfillment, highlighting the desire for harmonious and joyful connections. To strengthen your bonds, be present and attentive, work towards creating a nurturing environment, and engage in activities that bring mutual happiness."
+      },
+      {
+        "question": "How can I better connect spiritually with my ancestors' spirits?",
+        "cards": [
+          {"name": "The High Priestess", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "The Star", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The High Priestess signifies intuition and spiritual wisdom, encouraging you to trust your inner voice when seeking ancestral connections. The Eight of Pentacles reversed suggests that dedicating time to learn about your family's history and traditions can enhance this bond. The Star brings hope and inspiration, indicating that aligning with your ancestors' spirits can lead to profound spiritual fulfillment. Engage in practices such as meditation, prayer, or creating an ancestral altar to facilitate this connection. :contentReference[oaicite:0]{index=0}"
+      },
+      {
+        "question": "What should I do/shouldn't do about a situation with a friend or family member?",
+        "cards": [
+          {"name": "Justice", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Two of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Justice calls for fairness and honesty; approach the situation with integrity and seek balanced solutions. The Seven of Swords reversed suggests avoiding deceit and encourages transparency in your actions. The Two of Pentacles advises you to manage your responsibilities wisely, ensuring that your actions do not overwhelm you. Strive for open communication and equitable resolutions in your interactions."
+      },
+      {
+        "question": "How can I improve the friendship or relationship with family?",
+        "cards": [
+          {"name": "The Empress", "arcana": "Major", "orientation": "upright"},
+          {"name": "Knight of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Four of Wands", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Empress represents nurturing and compassion, suggesting that showing care and understanding can strengthen your bonds. The Knight of Cups reversed warns against unrealistic expectations; approach relationships with grounded emotions. The Four of Wands signifies celebration and harmony, indicating that creating joyful experiences together can enhance your connection. Engage in activities that foster mutual appreciation and happiness."
+      },
+      {
+        "question": "Is this person someone I can trust as a friend?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Six of Pentacles", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Queen of Swords", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Fool reversed suggests caution; take time to truly understand this person's character before fully trusting them. The Six of Pentacles indicates a balanced and fair relationship, highlighting the importance of reciprocity. The Queen of Swords reversed warns against dishonesty and manipulation; be vigilant about any signs of deceit. Observe their actions and consistency over time to gauge their trustworthiness."
+      },
+      {
+        "question": "How can I better support my family members or friends?",
+        "cards": [
+          {"name": "The Chariot", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Chariot signifies determination and control; be proactive in offering your support and take initiative when needed. The Three of Cups reversed suggests that while celebration is important, focus on providing support during challenging times. The King of Pentacles embodies stability and responsibility, encouraging you to offer practical assistance and be a reliable presence. Balance emotional empathy with tangible support to effectively aid your loved ones."
+      },
+      {
+        "question": "Are there issues from the past that are still affecting the happiness of my family?",
+        "cards": [
+          {"name": "The Moon", "arcana": "Major", "orientation": "upright"},
+          {"name": "Ten of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Ace of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Moon represents illusions and hidden truths; there may be unresolved issues affecting your family's happiness. The Ten of Swords reversed indicates that while past traumas may have been painful, healing is possible. The Ace of Cups signifies new emotional beginnings, suggesting that addressing past issues can lead to renewed joy and harmony. Encourage open discussions within your family to bring hidden concerns to light and work towards healing together."
+      },
+      {
+        "question": "What issues from my childhood are affecting me today?",
+        "cards": [
+          {"name": "The Devil", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Page of Pentacles", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Devil reversed suggests liberation from past constraints; however, some residual influences may persist. The Four of Swords indicates that rest and contemplation are needed to heal from past wounds. The Page of Pentacles reversed warns against missed opportunities for growth; reflect on how past experiences may have shaped your current path. Engage in self-reflection and healing practices to understand and address the lingering effects of childhood experiences."
+      },
+      {
+        "question": "How can I heal the ancestral wounds that run through my family?",
+        "cards": [
+          {"name": "The Ancestor", "arcana": "Major", "orientation": "upright"},
+          {"name": "Six of Cups", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Judgment", "arcana": "Major", "orientation": "upright"}
+        ],
+        "interpretation": "The Ancestor card emphasizes the importance of acknowledging and honoring your lineage to heal generational wounds. The Six of Cups reversed suggests that unresolved childhood issues may be influencing current familial relationships. Judgment calls for self-reflection and embracing transformative change to break free from past patterns. Engaging in ancestral healing practices, such as creating an ancestral altar or performing rituals, can facilitate this healing process. [Source](https://polarembassy.com/en-us/pages/ancestral-healing-tarot-deck-guide)"
+      },
+      {
+        "question": "How is my past influencing my relationships with friends and family?",
+        "cards": [
+          {"name": "The Devil", "arcana": "Major", "orientation": "reversed"},
+          {"name": "Four of Swords", "arcana": "Minor", "orientation": "upright"},
+          {"name": "Two of Cups", "arcana": "Minor", "orientation": "reversed"}
+        ],
+        "interpretation": "The Devil reversed indicates liberation from past constraints, suggesting that overcoming previous challenges can positively impact your relationships. The Four of Swords advises rest and contemplation, highlighting the need to heal from past traumas. The Two of Cups reversed warns of potential disharmony; unresolved issues may affect your connections. Reflecting on past experiences and seeking healing can lead to more harmonious relationships. [Source](https://tarotelements.com/ancestral-patterns-of-life-the-tarot/)"
+      },
+      {
+        "question": "Should I reconnect with an estranged friend or relative?",
+        "cards": [
+          {"name": "The Lovers", "arcana": "Major", "orientation": "upright"},
+          {"name": "Five of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Three of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Lovers card signifies meaningful connections; consider the depth of your bond with this person. The Five of Pentacles reversed suggests recovery from past hardships, indicating potential for renewed connection. The Three of Cups celebrates friendship and reunions, highlighting the joy of reconnection. If you feel that reconciliation would bring mutual support and happiness, it may be worth pursuing. [Source](https://www.interrobangtarot.com/blog/the-chosen-family-tarot-spread)"
+      },
+      {
+        "question": "How can I heal a wounded relationship with a friend or family member?",
+        "cards": [
+          {"name": "Strength", "arcana": "Major", "orientation": "upright"},
+          {"name": "Seven of Swords", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Six of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Strength encourages compassion and patience; approach the situation with empathy. The Seven of Swords reversed suggests addressing past dishonesty openly to rebuild trust. The Six of Cups evokes nostalgia and kindness, reminding you of the positive aspects of your relationship. Initiating honest conversations and demonstrating empathy can facilitate healing. [Source](https://www.emeraldlotusdivination.com/blog/ancestralhealing)"
+      },
+      {
+        "question": "How can I best handle a conflict with a friend or family member?",
+        "cards": [
+          {"name": "Justice", "arcana": "Major", "orientation": "upright"},
+          {"name": "Eight of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "King of Pentacles", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "Justice calls for fairness and balance; approach the conflict with an open mind and a willingness to understand all perspectives. The Eight of Pentacles reversed warns against neglecting the effort required to resolve the issue; be prepared to invest time and energy. The King of Pentacles represents stability and responsibility, suggesting a grounded approach. Striving for equitable solutions and demonstrating commitment can help resolve conflicts. "
+      },
+      {
+        "question": "How can I make friends and improve my social life?",
+        "cards": [
+          {"name": "The Fool", "arcana": "Major", "orientation": "upright"},
+          {"name": "Three of Pentacles", "arcana": "Minor", "orientation": "reversed"},
+          {"name": "Page of Cups", "arcana": "Minor", "orientation": "upright"}
+        ],
+        "interpretation": "The Fool encourages taking new opportunities and embracing spontaneity; be open to new experiences. The Three of Pentacles reversed suggests that collaboration may be challenging; seek environments where teamwork is valued. The Page of Cups signifies creativity and emotional openness, indicating that expressing your authentic self can attract like-minded individuals. Engaging in activities that align with your interests can lead to meaningful connections. "
+      }
+  ]
+  
